@@ -27,6 +27,7 @@ Exemplo:
 José da Silva|202311111111|ABC1234
 
 Maria de Souza|202322222222|ABC1234
+
 3. Ler todos os registros cadastrados (30% da nota)
 - **Em uma área de sessão**, permitir ler todos os registros cadastrados nos arquivos texto. Caso não esteja em uma sessão ativa, redirecionar para a área de login.
 - Seu sistema terá um botão "Visualizar carros". Ao clicar, deve carregar uma página php, que irá acessar todos os registros do arquivo texto **carros.txt** e apresentar ao usuário logado.
